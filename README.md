@@ -6,9 +6,7 @@ I'm a mathematician interested in programming and data science.
 - 🌱 I’m currently learning Pandas, Numpy, Business Understanding, Data Analysis and Data Understanding.
 - 📫: gizemcimen.cg@gmail.com
 
-Conect with me: 
-[![Linkedin](https://www.iconfinder.com/icons/2959747/employment_business_linkedin_work_icon)](https://www.linkedin.com/in/gizemcimencg/)
-![](https://www.iconfinder.com/icons/2959747/employment_business_linkedin_work_icon)
+
 
 <!--
 **cimengizem/cimengizem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,4 +41,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://fb.com/aryxb">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+Conect with me: 
+[![Linkedin](https://www.iconfinder.com/icons/2959747/employment_business_linkedin_work_icon)](https://www.linkedin.com/in/gizemcimencg/)
+![](https://www.iconfinder.com/icons/2959747/employment_business_linkedin_work_icon)
 -->
