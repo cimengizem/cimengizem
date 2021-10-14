@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi 👋, I'm Gizem
 
 I'm a mathematician interested in programming and data science.
@@ -10,6 +8,7 @@ I'm a mathematician interested in programming and data science.
 
 Conect with me: 
 [![Linkedin](https://www.iconfinder.com/icons/2959747/employment_business_linkedin_work_icon)](https://www.linkedin.com/in/gizemcimencg/)
+![](https://www.iconfinder.com/icons/2959747/employment_business_linkedin_work_icon)
 
 <!--
 **cimengizem/cimengizem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
