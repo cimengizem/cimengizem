@@ -9,7 +9,7 @@ I'm a mathematician interested in programming and data science.
 - 📫: gizemcimen.cg@gmail.com
 
 Conect with me: 
-[![Linkedin](https://www.linkedin.com/in/aryclenio-barros-060322135/)](https://www.linkedin.com/in/gizemcimencg/)
+[![Linkedin](https://www.iconfinder.com/icons/2959747/employment_business_linkedin_work_icon)](https://www.linkedin.com/in/gizemcimencg/)
 
 <!--
 **cimengizem/cimengizem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
