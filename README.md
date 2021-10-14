@@ -7,7 +7,7 @@ I'm a mathematician interested in programming and data science.
 - 📫: gizemcimen.cg@gmail.com
 
 Conect with me: 
-[(https://user-images.githubusercontent.com/82230337/137311415-a7fe0c0a-9106-4114-9877-364ee8ebe08c.png)](https://www.linkedin.com/in/gizemcimencg/)
+[(https://user-images.githubusercontent.com/82230337/137311415-a7fe0c0a-9106-4114-9877-364ee8ebe08c.png)[(https://www.linkedin.com/in/gizemcimencg/)]]
 
 
 <!--
