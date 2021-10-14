@@ -6,7 +6,9 @@ I'm a mathematician interested in programming and data science.
 - 🌱 I’m currently learning Pandas, Numpy, Business Understanding, Data Analysis and Data Understanding.
 - 📫: gizemcimen.cg@gmail.com
 
+Conect with me: 
 
+![(https://www.linkedin.com/in/gizemcimencg/)](https://user-images.githubusercontent.com/82230337/137311415-a7fe0c0a-9106-4114-9877-364ee8ebe08c.png)
 
 <!--
 **cimengizem/cimengizem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
