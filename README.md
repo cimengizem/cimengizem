@@ -8,8 +8,7 @@ I'm a mathematician interested in programming and data science.
 - 🌱 I’m currently learning Pandas, Numpy, Business Understanding, Data Analysis and Data Understanding.
 - 📫: gizemcimen.cg@gmail.com
 
-[![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gizemcimencg/)
-&nbsp;
+
 
 <!--
 **cimengizem/cimengizem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
