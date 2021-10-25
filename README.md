@@ -6,7 +6,7 @@ I'm a mathematician interested in programming and data science.
 - 🌱 I’m currently learning Pandas, Numpy, Business Understanding, Data Analysis and Data Understanding.
 - 📫 How to reach me: gizemcimen.cg@gmail.com
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/cimengizem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gizemcimencg//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/gizemcimen_cg)  
 
 <!--
 **cimengizem/cimengizem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
