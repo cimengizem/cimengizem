@@ -4,7 +4,7 @@ I'm a mathematician interested in programming and data science.
 
 - 🔭 I’m currently a student at EnerjiSa Data Science and Analytics Bootcamp.
 - 🌱 I’m currently learning Pandas, Numpy, Business Understanding, Data Analysis and Data Understanding.
-- 📫: gizemcimen.cg@gmail.com
+- 📫 How to reach me: gizemcimen.cg@gmail.com
 
 
 
