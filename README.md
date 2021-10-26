@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
 <h3 align="left">I'm a mathematician interested in programming and data science.</h3>
 
-- 🔭 I’m currently a student at EnerjiSa Data Science and Analytics Bootcamp.**
-- 🌱 I’m currently learning Pandas, Numpy, Business Understanding, Data Analysis and Data Understanding.** 
-- 📫 How to reach me: gizemcimen.cg@gmail.com**
+- 🔭 I’m currently a student at **EnerjiSa Data Science and Analytics Bootcamp.**
+- 🌱 I’m currently learning **Pandas, Numpy, Business Understanding, Data Analysis and Data Understanding.** 
+- 📫 How to reach me: **gizemcimen.cg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
