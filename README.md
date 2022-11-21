@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
-<h3 align="left">I'm a mathematician interested in programming and data science.</h3>
+<h3 align="left">I'm a game and software developer.</h3>
 
-- 🔭 I’m currently a student at **EnerjiSa Data Science and Analytics Bootcamp.**
+- 👩🏻‍💻 I’m currently working as a game developer.
+- 🔭 I’m currently a student at <a href="https://lonca.works" target="_blank">.
 - 🌱 I’m currently learning **Pandas, Numpy, Business Understanding, Data Analysis and Data Understanding.** 
 - 📫 How to reach me: **gizemcimen.cg@gmail.com**
 
