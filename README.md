@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
 <h3 align="left">I'm a game and software developer.</h3>
 
-- 👩🏻‍💻 I’m currently working as a game developer.
+- 👩🏻‍💻 I’m currently working as a ios developer.
 - 🔭 I’m currently a student at <a href="https://lonca.works" target="_blank"> Lonca </a>.
-- 🌱 I’m currently learning **Unity, Html, Css, JavaScript.** 
+- 🌱 I’m currently learning **iOS, SwiftUI.** 
 - 📫 How to reach me: **gizemcimen.cg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
