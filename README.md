@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
-<h3 align="left">I'm a game and software developer.</h3>
+<h3 align="left">I'm an iOS developer.</h3>
 
 - 👩🏻‍💻 I’m currently working as a ios developer.
 - 🔭 I’m currently a student at <a href="https://lonca.works" target="_blank"> Lonca </a>.
